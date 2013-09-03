@@ -1,0 +1,18 @@
+{
+  "name": "VXRunner",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "voxel-engine": "~0.18.4",
+    "extend": "~1.2.0",
+    "voxel-player": "https://github.com/vladikoff/voxel-player/tarball/master",
+    "voxel": "~0.3.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-browserify": "~1.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-copy": "~0.4.1"
+  }
+}
